@@ -1,0 +1,8 @@
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\bin\Debug\CSExercise.exe.config
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\bin\Debug\CSExercise.exe
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\bin\Debug\CSExercise.pdb
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\obj\Debug\CSExercise.csproj.AssemblyReference.cache
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\obj\Debug\CSExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\obj\Debug\CSExercise.csproj.CoreCompileInputs.cache
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\obj\Debug\CSExercise.exe
+C:\Users\mroshan\OneDrive - SOTI Inc\Desktop\web dev\xebia\c#\CSExercise\CSExercise\obj\Debug\CSExercise.pdb
